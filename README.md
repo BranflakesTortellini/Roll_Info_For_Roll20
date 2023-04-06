@@ -41,4 +41,4 @@ List of packages required for operation:
  tkinter  
  unicodedata
 
-Install with: pip install csv bs4 chardet ollections tml5lib json jsonpath_ng lxml math numpy pandas pathlib requests sqlite3 string tkinter unicodedata
+Install packages with: pip install csv bs4 chardet ollections tml5lib json jsonpath_ng lxml math numpy pandas pathlib requests sqlite3 string tkinter unicodedata
