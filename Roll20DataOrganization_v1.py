@@ -78,7 +78,7 @@ def split_roll_data(df):
 
 
 split_df= split_roll_data(df)
-print(split_df.head())
+#print(split_df.head())
 
 # specify the file name to save
 save_type = [('CSV Files', '*.csv')]
