@@ -2,8 +2,11 @@
 Takes json files pulled from Roll20 and extracts the roll data into a dataframe and csv for easy statistical analysis. 
 
 Use the Roll20Exporter chrome extension to pull json files from Roll20 and the run these scripts using the chatarchive file.
+
 https://chrome.google.com/webstore/detail/r20exporter/apbhfinbjilbkljgcnjjagecnciphnoi?hl=en
+
 Credit to:https://github.com/kakaroto/R20Exporter/
+
 Put all of the scripts and the archive in the same folder and run the launch script.
 
 Features: 
