@@ -17,6 +17,7 @@ Features:
 3) Roll counter for overall rolls and rolls per player specific to an action to help with time-series plots
 
 Works in progress:
+
 1)Dashboard to display data with various stats
 
 2)Expanded functionality to analyze compound rolls or non-standard rolls, largely involves spell/weapon attack rolls especially with custom modifiers
