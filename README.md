@@ -11,14 +11,20 @@ Put all of the scripts and the archive in the same folder and run the launch scr
 
 Features: 
 1) CSV files for rolls by action type, die type and character name. 
+
 2) Automatic calculation of statistical average for die type. 
+
 3) Roll counter for overall rolls and rolls per player specific to an action to help with time-series plots
 
 Works in progress:
 1)Dashboard to display data with various stats
+
 2)Expanded functionality to analyze compound rolls or non-standard rolls, largely involves spell/weapon attack rolls especially with custom modifiers
+
 3)Creation of summary files by roll, player, die including various quick reference information like mean/median/mode/std of individuals or groups
+
 4)Automatic differentiation between npcs and pcs. 
+
 5)Remote hosting/login capability for dashboard
 
 
