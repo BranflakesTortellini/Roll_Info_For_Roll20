@@ -16,6 +16,10 @@ Features:
 
 3) Roll counter for overall rolls and rolls per player specific to an action to help with time-series plots
 
+4) Optional name fixer which allows one to edit the names or players or actions which had a typo or were changed at somepoint during the campaign to help keep the data consistent. Similarly the GM could highlight all NPCs and change their name to GM. 
+
+5) Added a "luck" column called meet or beat columns to help easily see if a player is rolling above or below what they're expected to. Over enough rolls this should be about 0.5 average so if a player averages higher or lower then you know if they are unlucky at that roll type or not.
+
 Works in progress:
 
 1)Dashboard to display data with various stats
