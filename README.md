@@ -39,6 +39,7 @@ Works in progress:
 A dashboard is planned to make it easier to display said stats.
 
 List of packages required for operation:
+
  csv
  
  bs4 
