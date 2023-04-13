@@ -33,7 +33,7 @@ Works in progress:
 
 4) Remote hosting/login capability for dashboard
 
-6) Predictor of roll success for dashboard which would allow players or GM to predict the liklihood of a player rolling above a certain amount for any particular roll type factoring factoring in their "luck" with rolling above expected values. Not this is not "real" as all die have independent probabilities, but it could be fun nonetheless. 
+6) Predictor of roll success for dashboard which would allow players or GM to predict the liklihood of a player rolling above a certain amount for any particular roll type factoring factoring in their "luck" with rolling above expected values. Note this is not "real" as all die have independent probabilities, but it could be fun nonetheless. It could be more "real" if using rolls including modifiers since that will obviously skew the odds and can change over time as modifiers increase or decrease.
 
 
 List of packages required for operation:
