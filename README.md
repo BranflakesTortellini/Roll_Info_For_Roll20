@@ -25,18 +25,16 @@ Features:
 
 Works in progress:
 
-1)Dashboard to display data with various stats
+1) Dashboard to display various things including statistical summaries, time series plots, bar charts, etc. 
 
-2)Expanded functionality to analyze compound rolls or non-standard rolls, largely involves spell/weapon attack rolls especially with custom modifiers
+2) Expanded functionality to analyze compound rolls or non-standard rolls, largely involves spell/weapon attack rolls especially with several modifiers or multiple damage types or checks.
 
-3)Creation of summary files by roll, player, die including various quick reference information like mean/median/mode/std of individuals or groups
+3) Automatic differentiation between npcs and pcs. 
 
-4)Automatic differentiation between npcs and pcs. 
+4) Remote hosting/login capability for dashboard
 
-5)Remote hosting/login capability for dashboard
+6) Predictor of roll success for dashboard which would allow players or GM to predict the liklihood of a player rolling above a certain amount for any particular roll type factoring factoring in their "luck" with rolling above expected values. Not this is not "real" as all die have independent probabilities, but it could be fun nonetheless. 
 
-
-A dashboard is planned to make it easier to display said stats.
 
 List of packages required for operation:
 
